@@ -1,13 +1,13 @@
-state = [
-  ["1", "2", "8"],
-  ["4", "5", "3"],
-  ["7", "#", "6"],
-]
+# IA Algoritmos de Busca
 
-proxima
 
-state = [
-  ["1", "2", "8"],
-  ["4", "5", "#"],
-  ["7", "6", "3"],
-]
+## Tipos de buscas
+
+### Buscas Não Informadas
+- Busca por Profundidade
+- Busca por Largura
+
+### Buscas Informadas
+- Busca por custo Uniforme
+- Busca Gulosa
+- Busca A*
